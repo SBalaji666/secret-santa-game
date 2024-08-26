@@ -5,14 +5,14 @@ import { Table } from "antd";
 
 const columns = [
   {
-    title: "Employee_EmailID",
-    dataIndex: "Employee_EmailID",
-    key: "Employee_EmailID",
-  },
-  {
     title: "Employee_Name",
     dataIndex: "Employee_Name",
     key: "Employee_Name",
+  },
+  {
+    title: "Employee_EmailID",
+    dataIndex: "Employee_EmailID",
+    key: "Employee_EmailID",
   },
   {
     title: "Secret_Child_Name",
